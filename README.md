@@ -1,5 +1,5 @@
 # wud07.github.io
-Hi, I am Wud🤗
+Hi, I am Wud👋
 
 📚 I am a first year Computer Science student at UTM!
 
